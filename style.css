@@ -1,0 +1,20 @@
+* {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+p {
+  font-family: 'Noto Serif JP', serif;
+}
+
+h2 {
+  color: red;
+}
+
+figure {
+  max-width: 700px;
+  background-color: #eee;
+  box-shadow: 1px 1px 7px black;
+  margin: 15px 0;
+  padding: 5px;
+  border: 1px solid #777;
+}
